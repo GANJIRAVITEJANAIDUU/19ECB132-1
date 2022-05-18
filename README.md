@@ -6,3 +6,5 @@
 [sumnatural.c](https://github.com/GANJIRAVITEJANAIDUU/19ECB132-1/blob/main/sumnatural.c)
 
 [position.c](https://github.com/GANJIRAVITEJANAIDUU/19ECB132-1/blob/main/postion.c)
+
+[heightofbinarytree.c](https://github.com/GANJIRAVITEJANAIDUU/19ECB132-1/blob/main/heightofbinarytree.c)

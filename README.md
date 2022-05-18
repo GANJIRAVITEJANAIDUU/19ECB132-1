@@ -9,4 +9,4 @@
 
 [heightofbinarytree.c](https://github.com/GANJIRAVITEJANAIDUU/19ECB132-1/blob/main/heightofbinarytree.c)
 
-[correctionoferrors](https://github.com/GANJIRAVITEJANAIDUU/19ECB132-1/blob/main/correction%20of%20errors)
+[correctionoferrors.c](https://github.com/GANJIRAVITEJANAIDUU/19ECB132-1/blob/main/correction%20of%20errors)

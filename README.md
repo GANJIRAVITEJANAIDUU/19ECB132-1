@@ -17,4 +17,6 @@
 
 [lineardatasturctures](https://github.com/GANJIRAVITEJANAIDUU/19ECB132-1/blob/main/03_linear_data_structures.c)
 
+[preorderofbinarytree](https://github.com/GANJIRAVITEJANAIDUU/19ECB132-1/blob/main/pre%20order%20post%20order%20of%20binary%20tree)
+
 

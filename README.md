@@ -15,4 +15,6 @@
 
 [linkedlist.c](https://github.com/GANJIRAVITEJANAIDUU/19ECB132-1/blob/main/doubly_linked_list.c)
 
+[lineardatasturctures](https://github.com/GANJIRAVITEJANAIDUU/19ECB132-1/blob/main/03_linear_data_structures.c)
+
 

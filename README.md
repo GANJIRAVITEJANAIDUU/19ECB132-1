@@ -13,4 +13,6 @@
 
 [binarytree.c](https://github.com/GANJIRAVITEJANAIDUU/19ECB132-1/blob/main/binarytree.c)
 
+[linkedlist.c](https://github.com/GANJIRAVITEJANAIDUU/19ECB132-1/blob/main/doubly_linked_list.c)
+
 

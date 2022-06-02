@@ -22,4 +22,12 @@ int main()
 	
   	return 0;
 }
+/*output
+Please Enter any String :  javapoint
+
+ Please Enter the Character that you want to Search for :  a
+
+ 'a' is Found at Position 2 
+ 'a' is Found at Position 4 
+
 

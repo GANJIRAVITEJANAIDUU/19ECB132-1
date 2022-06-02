@@ -53,3 +53,11 @@ preorder(rootNode);
 printf("\nPostorder \n");
 postorder(rootNode);
 } 
+/*output
+Inorder 
+6 ->4 ->7 ->8 ->3 ->
+Preorder 
+7 ->4 ->6 ->8 ->3 ->
+Postorder 
+6 ->4 ->3 ->8 ->7
+  */

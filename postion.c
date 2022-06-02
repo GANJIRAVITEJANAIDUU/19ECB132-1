@@ -29,5 +29,7 @@ Please Enter any String :  javapoint
 
  'a' is Found at Position 2 
  'a' is Found at Position 4 
-
-
+/*output
+  Enter the value 4
+10/n
+  */

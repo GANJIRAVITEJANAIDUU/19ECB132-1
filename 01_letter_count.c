@@ -12,19 +12,11 @@ int main(void) {
   return 0;
 }
 
-/* Obervations:
-01. How to work with sentences having a space in between?
+/*output
+Enter a sentence: ravi
 
-Output:
-Case - 01
-Enter a sentence: suraj
-The number of letters in the given sentence are : 5
-
-Case - 02  
-Enter a sentence: suraj aravind
-The number of letters in the given sentence are : 5
-
-*/  
+The number of letters in the given sentence are : 4
+*/
 
 
   
